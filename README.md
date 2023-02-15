@@ -1,16 +1,15 @@
 # A03
 PART 1: Webstorm introductions
 
-- Login to Webstorm
-- Open the repository that will be used from Github in Webstorm
-- Select File
-- Select New
-- Select Project
-- Select Empty Project
-- Select "VCS" that is in the top toolbar
-- Pick Get From Version Control
-- Lastly paste the repository's URL that needs to be linked to Webstorm 
-
+1. Login to Webstorm
+2. Open the repository that will be used from Github in Webstorm
+3. Select File
+4. Select New
+5. Select Project
+6. Select Empty Project
+7. Select "VCS" that is in the top toolbar
+8. Pick Get From Version Control
+9. Lastly paste the repository's URL that needs to be linked to Webstorm 
 
 PART 2: Github Glossary
 - Branch - it lets user make new edits without changing the orignal repository
