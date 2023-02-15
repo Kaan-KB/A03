@@ -1,6 +1,8 @@
 # A03
-Webstorm introductions
+PART 1: Webstorm introductions
+
 - Login to Webstorm
+- Open the repository that will be used from Github in Webstorm
 - Select File
 - Select New
 - Select Project
